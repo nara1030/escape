@@ -10,11 +10,11 @@
 2. 스프링 시작하기
 	1. 스프링 프로젝트 시작하기
 	2. 스프링은 객체 컨테이너
-3. 스프링 DI
+3. [스프링 DI](#스프링-DI)
 	1. 의존이란
 	2. DI를 통한 의존 처리
 	3. DI와 의존 객체 변경의 유연함
-	4. 예제 프로젝트 만들기
+	4. [예제 프로젝트 만들기](#예제-프로젝트-만들기)
 	5. 객체 조립기
 	6. 스프링의 DI 설정
 	7. 두 개 이상의 설정 파일 사용하기
@@ -52,5 +52,14 @@
 
 - - -
 1. [Window] → [Preferences] → [General/Workspace] → Text file encoding → UTF-8
+
+##### [목차로 이동](#목차)
+
+## 스프링 DI
+### 예제 프로젝트 만들기
+* [MainForAssembler 클래스 - String 클래스 메서드](https://ehpub.co.kr/tag/startswith-%EB%A9%94%EC%84%9C%EB%93%9C/): `startsWith`, `equalsIgnoreCase`
+* MemberDAO 클래스
+	* [HashMap](http://tech.javacafe.io/2018/12/03/HashMap/)
+	* [static](https://12bme.tistory.com/94)
 
 ##### [목차로 이동](#목차)
